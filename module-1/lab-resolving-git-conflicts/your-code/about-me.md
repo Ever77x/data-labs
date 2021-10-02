@@ -1,3 +1,4 @@
+
 # Who am I
 
 * Soy de CDMX
@@ -10,7 +11,6 @@
 * Analisis, programación y generación de insights
 
 # What will I do after the bootcamp?
-
 * Fintech, Consumo Masivo y empresas de Tecnlogia (Google, Amazon, Facebook)
 * Estrategia de negocio a partir de analisis de data
 * Que a partir de los ánalisis que genere se tomen decisiones clave para crecer el negocio en donde me encuentre
