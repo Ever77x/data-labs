@@ -1,4 +1,4 @@
-ESTO ES LO QUE VOY A PONER EN MERGE - (NO HACER ESTO)
+esto es lo de la rama MASTER
 # Who am I
 
 * Soy de CDMX
