@@ -1,4 +1,4 @@
-esto es lo de la rama MASTER
+##CON ESTO RESUELVO EL CONFLICTO
 # Who am I
 
 * Soy de CDMX
